@@ -1,3 +1,3 @@
-Working on learning more JavaScript, mostly from JavaScript: The Good Parts.
+I am working on learning more JavaScript, mostly from JavaScript: The Good Parts and the Crockford videos in the YUI Theater collection.
 
-The Crockford modified some of the core objects of JavaScript with extensions that he found useful.  These extensions may not be in the main language, and they seem like they would be useful.  So, time to type them in somewhere so that I can include them when needed in code work.
+In his book JavaScript: The Good Parts, Crockford modified some of the core objects of JavaScript with extensions that he found useful.  These extensions aren't in the main language, and they seem useful.  I want them available to play with while I work on picking up more of the language.
